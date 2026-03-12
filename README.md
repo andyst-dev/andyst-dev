@@ -128,6 +128,10 @@
     <td width="56" align="center"><img src="assets/win98/cub3d.png" width="32" alt="cub3d icon"></td>
     <td><a href="https://github.com/andyst-dev/cub3d-42"><b>cub3d-42</b></a><br>Raycasting project in C with map parsing, textures, movement, rotation and a first-person 3D view built with MiniLibX.</td>
   </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/cpp_part1.png" width="32" alt="cpp_part1 icon"></td>
+    <td><a href="https://github.com/andyst-dev/cpp_part1-42"><b>cpp_part1-42</b></a><br>First five C++ modules of the 42 cursus, covering classes, memory management, operator overloading, inheritance and polymorphism.</td>
+  </tr>
 </table>
 
 <br>
