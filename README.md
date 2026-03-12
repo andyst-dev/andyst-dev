@@ -136,6 +136,10 @@
     <td width="56" align="center"><img src="assets/win98/cpp_part2.png" width="32" alt="cpp_part2 icon"></td>
     <td><a href="https://github.com/andyst-dev/cpp_part2-42"><b>cpp_part2-42</b></a><br>Second five C++ modules of the 42 cursus, covering exceptions, casts, templates, STL containers and algorithmic problem solving.</td>
   </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/webserv.png" width="32" alt="webserv icon"></td>
+    <td><a href="https://github.com/andyst-dev/webserv-42"><b>webserv-42</b></a><br>HTTP server in C++ with request parsing, response generation, configuration handling, CGI support and non-blocking socket management.</td>
+  </tr>
 </table>
 
 <br>
