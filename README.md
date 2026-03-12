@@ -124,6 +124,10 @@
     <td width="56" align="center"><img src="assets/win98/minishell.png" width="32" alt="minishell icon"></td>
     <td><a href="https://github.com/andyst-dev/minishell-42"><b>minishell-42</b></a><br>Shell project in C with parsing, tokenization, environment management, pipes, redirections and signal handling.</td>
   </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/cub3d.png" width="32" alt="cub3d icon"></td>
+    <td><a href="https://github.com/andyst-dev/cub3d-42"><b>cub3d-42</b></a><br>Raycasting project in C with map parsing, textures, movement, rotation and a first-person 3D view built with MiniLibX.</td>
+  </tr>
 </table>
 
 <br>
