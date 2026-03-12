@@ -132,6 +132,10 @@
     <td width="56" align="center"><img src="assets/win98/cpp_part1.png" width="32" alt="cpp_part1 icon"></td>
     <td><a href="https://github.com/andyst-dev/cpp_part1-42"><b>cpp_part1-42</b></a><br>First five C++ modules of the 42 cursus, covering classes, memory management, operator overloading, inheritance and polymorphism.</td>
   </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/cpp_part2.png" width="32" alt="cpp_part2 icon"></td>
+    <td><a href="https://github.com/andyst-dev/cpp_part2-42"><b>cpp_part2-42</b></a><br>Second five C++ modules of the 42 cursus, covering exceptions, casts, templates, STL containers and algorithmic problem solving.</td>
+  </tr>
 </table>
 
 <br>
