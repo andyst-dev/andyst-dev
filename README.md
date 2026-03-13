@@ -140,6 +140,10 @@
     <td width="56" align="center"><img src="assets/win98/webserv.png" width="32" alt="webserv icon"></td>
     <td><a href="https://github.com/andyst-dev/webserv-42"><b>webserv-42</b></a><br>HTTP server in C++ with request parsing, response generation, configuration handling, CGI support and non-blocking socket management.</td>
   </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/inception.png" width="32" alt="inception icon"></td>
+    <td><a href="https://github.com/andyst-dev/inception-42"><b>inception-42</b></a><br>Docker-based infrastructure project with NGINX, WordPress, MariaDB, TLS, persistent volumes and service orchestration.</td>
+  </tr>
 </table>
 
 <br>
