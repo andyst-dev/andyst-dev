@@ -144,6 +144,10 @@
     <td width="56" align="center"><img src="assets/win98/inception.png" width="32" alt="inception icon"></td>
     <td><a href="https://github.com/andyst-dev/inception-42"><b>inception-42</b></a><br>Docker-based infrastructure project with NGINX, WordPress, MariaDB, TLS, persistent volumes and service orchestration.</td>
   </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/ft_transcendence.png" width="32" alt="ft_transcendence icon"></td>
+    <td><a href="https://github.com/andyst-dev/ft_transcendence-42"><b>ft_transcendence-42</b></a><br>Full-stack web application built around an online Pong project, with authentication, live chat, tournaments and a Dockerized multi-service architecture.</td>
+  </tr>
 </table>
 
 <br>
