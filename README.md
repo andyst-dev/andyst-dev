@@ -154,6 +154,18 @@
 
 <table align="center">
   <tr>
+    <td colspan="2"><b>42_specializations</b></td>
+  </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/python_for_data_science.png" width="32" alt="python for data science icon"></td>
+    <td><b>Python for Data Science</b> <i>(in progress)</i><br>Post-common-core specialization project focused on Python, data analysis and the foundations of data science workflows.</td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
     <td><b>contact.vcf</b></td>
   </tr>
   <tr>
