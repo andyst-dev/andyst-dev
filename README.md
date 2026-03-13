@@ -148,3 +148,15 @@
     <td><a href="https://github.com/andyst-dev/ft_transcendence-42"><b>ft_transcendence-42</b></a><br>Full-stack web application built around an online Pong project, with authentication, live chat, tournaments and a Dockerized multi-service architecture.</td>
   </tr>
 </table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td colspan="2"><b>42_specializations</b></td>
+  </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/python_for_data_science.png" width="32" alt="python for data science icon"></td>
+    <td><b>Python for Data Science</b> <i>(in progress)</i><br>Post-common-core specialization project focused on Python, data analysis and the foundations of data science workflows.</td>
+  </tr>
+</table>
