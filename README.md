@@ -16,7 +16,7 @@
     <td>
       Junior backend / web developer with a strong interest in clean, useful and well-built software.<br><br>
       I like building things, understanding how they really work and making them simpler when possible.<br><br>
-      42 Lausanne gave me a strong base in C, C++, Unix, parsing, HTTP and Docker.<br>
+      42 Lausanne gave me a solid base in C, C++, Unix, parsing, HTTP and Docker.<br>
     </td>
   </tr>
 </table>
@@ -81,7 +81,7 @@
   </tr>
   <tr>
     <td>
-      I’m looking for a <b>junior backend or web developer role</b> where I can keep learning, build useful and well-structured projects and grow through real-world experience.
+      I’m looking for a <b>junior backend or web developer role</b> where I can keep learning, build useful projects and grow through real-world experience.
     </td>
   </tr>
 </table>
@@ -170,7 +170,7 @@
   </tr>
   <tr>
     <td>
-      <b>Email :</b> andystoll@proton.me<br>
+      <b>Email:</b> andystoll@proton.me<br>
     </td>
   </tr>
 </table>
