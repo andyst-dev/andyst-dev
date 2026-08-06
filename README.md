@@ -1,6 +1,6 @@
 <h1 align="center">Andy</h1>
 <p align="center">
-  Junior developer · 42 Lausanne · Switzerland
+  Developer · 42 Lausanne graduate · Switzerland
 </p>
 
 <p align="center">
@@ -13,9 +13,10 @@
   </tr>
   <tr>
     <td>
-      Junior backend / web developer with a strong interest in clean, useful and well-built software.<br><br>
+      Backend / web developer with a strong interest in clean, useful and well-built software.<br><br>
       I like building things, understanding how they really work and making them simpler when possible.<br><br>
       42 Lausanne gave me a solid base in C, C++, Unix, parsing, HTTP and Docker.<br>
+      Now I mostly build with Python, TypeScript and Swift - AI agents, homelab and tooling.<br>
     </td>
   </tr>
 </table>
@@ -28,7 +29,7 @@
     <td>
       <b>Age:</b> 32<br>
       <b>Enjoys:</b> reading books, running, walking in the mountains<br>
-      <b>Into:</b> homelabbing, experimenting with AI agents and systems<br>
+      <b>Into:</b> homelabbing, AI agents, building tools that make life simpler<br>
     </td>
   </tr>
 </table>
@@ -40,10 +41,12 @@
   <tr>
     <td>
       <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+        <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift">
         <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
         <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
       </p>
       <p>
@@ -53,6 +56,7 @@
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
         <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
       </p>
     </td>
   </tr>
@@ -65,23 +69,32 @@
   <tr>
     <td>
       <ul>
-        <li>Getting better with Python and backend development</li>
-        <li>Building cleaner projects with a more real-world structure</li>
-        <li>Experimenting with homelab setups, AI agents and automation</li>
-        <li>Learning how to make systems simpler, clearer and more useful</li>
+        <li>Building <a href="https://github.com/andyst-dev/hermes-ios"><b>hermes-ios</b></a>, a native SwiftUI client for the Hermes agent</li>
+        <li>Improving my Python and backend architecture</li>
+        <li>Expanding my homelab (Plex, Jellyfin, qBittorrent, Dashdot)</li>
+        <li>Exploring AI agents, automation and self-hosted tooling</li>
       </ul>
     </td>
   </tr>
 </table>
 
+<br>
+
 <table align="center">
   <tr>
-    <td><b>current_direction.md</b></td>
+    <td colspan="2"><b>~/projects</b></td>
   </tr>
   <tr>
-    <td>
-      I’m looking for a <b>junior backend or web developer role</b> where I can keep learning, build useful projects and grow through real-world experience.
-    </td>
+    <td width="56" align="center"><img src="assets/win98/hermes_ios.png" width="32" alt="hermes-ios icon"></td>
+    <td><a href="https://github.com/andyst-dev/hermes-ios"><b>hermes-ios</b></a><br>Native SwiftUI remote client for Hermes Agent - live SSE streaming chat, QR pairing, desktop file browsing, phone-based dangerous-command approvals.</td>
+  </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/notenest_ai.png" width="32" alt="notenest-ai icon"></td>
+    <td><a href="https://github.com/andyst-dev/notenest-ai"><b>notenest-ai</b></a><br>AI-powered note organizer that turns messy brain dumps into structured Markdown folders.</td>
+  </tr>
+  <tr>
+    <td width="56" align="center"><img src="assets/win98/thinkvault_homelab.png" width="32" alt="thinkvault-homelab icon"></td>
+    <td><a href="https://github.com/andyst-dev/thinkvault-homelab"><b>thinkvault-homelab</b></a><br>Sanitized Docker Compose media stack for Plex, Jellyfin, qBittorrent and Dashdot.</td>
   </tr>
 </table>
 
@@ -153,10 +166,11 @@
 
 <table align="center">
   <tr>
-    <td colspan="2"><b>42_specializations</b></td>
+    <td><b>current_direction.md</b></td>
   </tr>
   <tr>
-    <td width="56" align="center"><img src="assets/win98/python_for_data_science.png" width="32" alt="python for data science icon"></td>
-    <td><b>Python for Data Science</b> <i>(in progress)</i><br>Post-common-core specialization project focused on Python, data analysis and the foundations of data science workflows.</td>
+    <td>
+      Looking for a <b>backend or full-stack developer role</b> where I can keep learning, build useful projects and grow through real-world experience - ideally around Python, TypeScript or developer tooling.
+    </td>
   </tr>
 </table>
