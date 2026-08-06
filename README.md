@@ -169,8 +169,8 @@
   </tr>
   <tr>
     <td>
-      Looking for a <b>backend or full-stack developer role</b> - Python, TypeScript or developer tooling.<br>
-      I ship small, tested, real-world projects: a SwiftUI client for an AI agent, an AI note organizer, a homelab media stack.<br>
+      Open to <b>backend or full-stack developer roles</b> - Python, TypeScript or developer tooling.<br>
+      42 Lausanne graduate with solid CS fundamentals (C, C++, Unix, HTTP, Docker) and a habit of shipping complete, useful tools.<br>
       Remote or Lausanne (CH)
     </td>
   </tr>
