@@ -4,6 +4,7 @@
 </p>
 
 <p align="center">
+  <a href="mailto:andyst-dev@proton.me"><img src="https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Vouvry%2C%20Switzerland-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
 </p>
 
@@ -101,7 +102,7 @@
 
 <table align="center">
   <tr>
-    <td colspan="2"><b>42_cursus</b></td>
+    <td colspan="2"><b>~/projects-42</b></td>
   </tr>
   <tr>
     <td width="56" align="center"><img src="assets/win98/ft_transcendence.png" width="32" alt="ft_transcendence icon"></td>
@@ -130,6 +131,19 @@
   <tr>
     <td>
       Available for backend, automation and developer tooling work · Switzerland / Remote
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td><b>contact.vcf</b></td>
+  </tr>
+  <tr>
+    <td>
+      <b>Email:</b> andyst-dev@proton.me<br>
     </td>
   </tr>
 </table>
