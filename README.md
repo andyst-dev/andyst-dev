@@ -116,8 +116,8 @@
     <td><a href="https://github.com/andyst-dev/webserv-42"><b>webserv-42</b></a><br>HTTP/1.1 server written in C++98: request parsing, response generation, CGI execution, NGINX-style configuration parsing and multiple servers and ports handled through one non-blocking event loop.</td>
   </tr>
   <tr>
-    <td width="56" align="center"><img src="assets/win98/libft.png" width="32" alt="42-archive icon"></td>
-    <td><a href="https://github.com/andyst-dev/42-archive"><b>42-archive</b></a><br>Index of the rest of the cursus, in the order I went through it.</td>
+    <td width="56" align="center"><img src="assets/win98/42_archive.png" width="32" alt="archive-42 icon"></td>
+    <td><a href="https://github.com/andyst-dev/42-archive"><b>archive-42</b></a><br>Index of the rest of the cursus, in the order I went through it.</td>
   </tr>
 </table>
 
