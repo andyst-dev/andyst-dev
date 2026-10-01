@@ -65,7 +65,9 @@
   <tr>
     <td>
       <ul>
-        <li>Building a local-first AI assistant for iPhone with multiple model providers, tool calling and native iOS actions.</li>
+        <li>Building a local-first AI assistant for iPhone with multiple model providers, tool calling and native iOS actions</li>
+        <li>Packaging ContextLean for easier installation across Codex and Claude Code</li>
+        <li>Experimenting with local models, agent workflows and self-hosted automation</li>
       </ul>
     </td>
   </tr>
@@ -82,11 +84,11 @@
     <td><a href="https://github.com/andyst-dev/contextlean"><b>ContextLean</b></a><br>Repository context tooling for coding agents. Builds compact project maps for Codex and Claude Code, with audit, review and benchmarking skills.</td>
   </tr>
   <tr>
-    <td width="56" align="center">&nbsp;</td>
+    <td width="56" align="center"><img src="assets/win98/hookrelay.png" width="32" alt="HookRelay icon"></td>
     <td><a href="https://github.com/andyst-dev/hookrelay"><b>HookRelay</b></a><br>FastAPI webhook gateway for receiving, validating, transforming, forwarding, retrying and replaying events.</td>
   </tr>
   <tr>
-    <td width="56" align="center">&nbsp;</td>
+    <td width="56" align="center"><img src="assets/win98/flowforge.png" width="32" alt="FlowForge icon"></td>
     <td><a href="https://github.com/andyst-dev/flowforge"><b>FlowForge</b></a><br>Reusable CSV and Excel cleaning workflows with FastAPI, Pandas, SQLite and a browser-based interface.</td>
   </tr>
   <tr>
