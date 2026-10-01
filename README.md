@@ -117,7 +117,7 @@
   </tr>
   <tr>
     <td width="56" align="center"><img src="assets/win98/42_archive.png" width="32" alt="archive-42 icon"></td>
-    <td><a href="https://github.com/andyst-dev/42-archive"><b>archive-42</b></a><br>Index of the rest of the cursus, in the order I went through it.</td>
+    <td><a href="https://github.com/andyst-dev/archive-42"><b>archive-42</b></a><br>Index of the rest of the cursus, in the order I went through it.</td>
   </tr>
 </table>
 
