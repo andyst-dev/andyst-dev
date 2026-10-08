@@ -93,8 +93,8 @@
     <td><a href="https://github.com/andyst-dev/flowforge"><b>FlowForge</b></a><br>Reusable CSV and Excel cleaning workflows with FastAPI, Pandas, SQLite and a browser-based interface.</td>
   </tr>
   <tr>
-    <td width="56" align="center"><img src="assets/win98/notenest_ai.png" width="32" alt="notenest-ai icon"></td>
-    <td><a href="https://github.com/andyst-dev/notenest-ai"><b>NoteNest AI</b></a><br>Next.js app that turns messy notes into structured Markdown folders with metadata, duplicate detection and safe ZIP export.</td>
+    <td width="56" align="center"><img src="assets/win98/ghscout.png" width="32" alt="gh-scout icon"></td>
+    <td><a href="https://github.com/andyst-dev/gh-scout"><b>gh-scout</b></a><br>Go CLI that finds contribution-worthy GitHub issues without duplicating work in progress, and reports which of your own pull requests owe the next move.</td>
   </tr>
 </table>
 
